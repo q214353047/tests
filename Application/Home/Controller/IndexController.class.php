@@ -10,4 +10,8 @@ class IndexController extends Controller {
         echo "我的测试";
     }
 
+    public function apoi(){
+        $this->display();
+    }
+
 }
