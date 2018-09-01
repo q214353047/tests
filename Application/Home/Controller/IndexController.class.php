@@ -13,6 +13,7 @@ class IndexController extends Controller {
     public function apoi(){
        ECHO "131";
         $this->display();
+        ECHO "131132";
     }
 
 }
